@@ -25,3 +25,4 @@ boton = tk.Button(ventana, text="Enviar", command=mensaje)
 boton.pack()
 etiqueta_respuesta = tk.Label(ventana)
 etiqueta_respuesta.pack()
+#hecho por kernelboy34
